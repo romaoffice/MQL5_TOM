@@ -1,0 +1,9 @@
+pepperstone.com
+Login:
+61064310
+Password:
+qklcsmZ5
+Server:
+mt5-demo01.pepperstone.com
+Currency:
+USD
